@@ -1,0 +1,107 @@
+#principal{
+  width: 1200px;
+  height: 4399px;
+  margin: auto;
+  align-content: center;
+  background-color: #29C5DB;
+}
+
+#logo {
+  width: 500px;
+  height: 100px;
+  border: 0px solid #000;
+  float: left;
+}
+
+header{
+  width: 1200px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.menu{
+  width: 450px;
+  height: 40px;
+  border: 1px solid #000;
+  float: right;
+  margin-top: 30px;
+  margin-right: 40px;;
+  background-color: #00BFFF;
+}
+
+.menu ul{
+}
+
+.menu ul li {
+  list-style: none;
+  float: right;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 0px solid #000;
+  color: #000;
+}
+
+#slide{
+  width: 600px;
+  height: 100px;
+}
+
+#proceso{
+  width: 1200px;
+  height: 200px;
+  border: 1px solid #000;
+  list-style-type: circle;
+  background-color: #00BFFF;
+}
+
+#trabajos{
+  width: 1200px;
+  height: auto; overflow: hidden;
+  border: 0px solid;
+  margin-top: 90px;
+  margin-bottom: 10px;
+}
+
+.uno{
+  width: 1200px;
+  height: 200px;
+  border: 1px solid #000;
+  float:left;
+  list-style: upper-roman;
+  padding: 5px;
+
+}
+
+#imagen{
+  float: right;
+  width: 120px; height: 120px;
+  margin-right: 15px;
+}
+
+.cero{
+  border: 1px solid #000;
+}
+
+.dos{
+  margin-top: 5px;
+}
+
+#more{
+  display: none;
+}
+
+#titulo{
+  margin-top: 10px;
+}
+
+#footer{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.tres{
+  background-color: #00BFFF;
+}
